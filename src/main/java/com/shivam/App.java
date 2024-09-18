@@ -39,7 +39,7 @@ public class App {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
                 // Replace with your app password from Gmail
-                return new PasswordAuthentication("shivamjha57649@gmail.com", "Massey@1035");
+                return new PasswordAuthentication("shivamjha57649@gmail.com", "#");
             }
         });
 
