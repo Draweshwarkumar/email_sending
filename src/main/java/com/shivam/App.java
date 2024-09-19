@@ -1,4 +1,5 @@
-package com.shivam;
+
+ package com.shivam;
 
 import java.util.Properties;
 import javax.mail.Authenticator;
@@ -39,7 +40,7 @@ public class App {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
                 // Replace with your app password from Gmail
-                return new PasswordAuthentication("shivamjha57649@gmail.com", "#");
+                return new PasswordAuthentication("jibrankumari@gmail.com", "zdef ylmo yeps bqca");
             }
         });
 
@@ -69,4 +70,4 @@ public class App {
             e.printStackTrace();
         }
     }
-}
+}   
